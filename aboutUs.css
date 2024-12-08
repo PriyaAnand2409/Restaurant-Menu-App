@@ -1,0 +1,33 @@
+.restaurent-overview {
+    text-align: center;
+    background-image: url("https://placehold.co/1500x800?text=Restaurant%20Image");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    height: 90vh;
+}
+.restaurant-info{
+    background-color: beige;
+    height: 150px;
+    width: 500px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0.8;
+    justify-content: center;
+
+}
+.restaurant-name{
+    font-size: 28px;
+    font-weight: bold;
+    color: #555;
+}
+.restaurant-established {
+    font-size: 16px;
+    color: #666;
+}
